@@ -1,0 +1,10 @@
+Package: MethylDeconBloodSubtypes
+Type: Package
+Title: Methylation Array Deconvolution
+Version: 0.0.0.9000
+Author: Lindsay Waite Jones
+Maintainer: bweaver@hudsonalpha.org
+Description: More about what it does
+License: file LICENSE
+LazyData: TRUE
+Suggests: testthat
